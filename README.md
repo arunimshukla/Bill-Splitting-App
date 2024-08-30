@@ -1,7 +1,8 @@
 # Bill-Splitting-App
 
+A simple bill-splitting app coded in React JS using Tailwind CSS, Lucide React and Shadcn/UI.
 
-A simple bill splitting app coded in React JS using Tailwind CSS, Lucide React and Shadcn/UI.
+![Bill Splitting App Image](https://drive.google.com/file/d/17PzerRiRpS6owLI9n3kySI8Zi-5kcVfN/view?usp=share_link)
 
 ## Overview
 
